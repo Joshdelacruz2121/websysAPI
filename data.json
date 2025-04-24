@@ -1,17 +1,6 @@
 {
-    "id": 1,
-    "name": "Mary Town",
-    "email": "tulodmaryjoy41903@gmail.com",
-    "phone": "09754378598",
-    "address": {
-        "street": "453 Libis Nadurata St.",
-        "city": "Caloocan City",
-        "state": "Philippines",
-        "zip": "1400"
-    },
-    "company": {
-        "name": "Tech Solutions",
-        "position": "Software Engineer",
-        "department": "Development"
-    }
+    "name": "MONTANEZ",
+    "age": 25,
+    "email": "monmtanezjoshua39@gmail.com",
+    "skills": ["programming", "design", "communication"]
 }
